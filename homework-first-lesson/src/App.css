@@ -1,0 +1,7 @@
+.population {
+  display: flex;
+  padding: 15px;
+  border: 4px solid wheat;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}

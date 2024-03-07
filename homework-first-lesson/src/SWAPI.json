@@ -1,0 +1,60 @@
+{
+    "message": "ok",
+    "results": [
+      {
+        "properties": {
+          "height": "172",
+          "mass": "77",
+          "hair_color": "blond",
+          "skin_color": "fair",
+          "eye_color": "blue",
+          "birth_year": "19BBY",
+          "gender": "male",
+          "created": "2024-03-07T07:07:15.111Z",
+          "edited": "2024-03-07T07:07:15.111Z",
+          "name": "Luke Skywalker",
+          "homeworld": "https://www.swapi.tech/api/planets/1",
+          "url": "https://www.swapi.tech/api/people/1",
+          "img": "https://static.tvtropes.org/pmwiki/pub/images/luke_the_hero_small.png"
+        },
+        "description": "A person within the Star Wars universe",
+        "_id": "5f63a36eee9fd7000499be42",
+        "uid": "1",
+        "__v": 0
+      },
+      {
+        "properties": {
+          "height": "66",
+          "mass": "17",
+          "hair_color": "white",
+          "skin_color": "green",
+          "eye_color": "brown",
+          "birth_year": "896BBY",
+          "gender": "male",
+          "created": "2024-03-07T07:07:15.111Z",
+          "edited": "2024-03-07T07:07:15.111Z",
+          "name": "Yoda",
+          "homeworld": "https://www.swapi.tech/api/planets/28",
+          "url": "https://www.swapi.tech/api/people/20",
+          "img": "https://images.immediate.co.uk/production/volatile/sites/3/2017/12/yoda-the-empire-strikes-back-28a7558.jpg?quality=90&resize=800,534"
+        }
+      },
+      {
+        "properties": {
+          "height": "202",
+          "mass": "136",
+          "hair_color": "none",
+          "skin_color": "white",
+          "eye_color": "yellow",
+          "birth_year": "41.9BBY",
+          "gender": "male",
+          "created": "2024-03-07T07:07:15.111Z",
+          "edited": "2024-03-07T07:07:15.111Z",
+          "name": "Darth Vader",
+          "homeworld": "https://www.swapi.tech/api/planets/1",
+          "url": "https://www.swapi.tech/api/people/4",
+          "img": "https://lumiere-a.akamaihd.net/v1/images/darth-vader-main_4560aff7.jpeg"
+        }
+      }
+    ]
+  }
